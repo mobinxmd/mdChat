@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/mdChat/static/css/main.9afdd47d.css",
+    "main.js": "/mdChat/static/js/main.ba46add4.js",
+    "static/media/mdChat.svg": "/mdChat/static/media/mdChat.762c8db9f614403e5dc5f5c466936112.svg",
+    "static/media/CallButton.svg": "/mdChat/static/media/CallButton.3a4c566a031de32e3d2f0dfef1f36679.svg",
+    "static/media/send.svg": "/mdChat/static/media/send.ac759af8c41b3ccafb598b173825cfe9.svg",
+    "index.html": "/mdChat/index.html",
+    "static/media/logOut.svg": "/mdChat/static/media/logOut.e06b15389541597534bde9cf50a92aa8.svg",
+    "static/media/home2.svg": "/mdChat/static/media/home2.940543435847b2480f5ce249014b4d32.svg",
+    "static/media/mediafile.svg": "/mdChat/static/media/mediafile.cda1792c0c6c10f403910c0ac1700992.svg",
+    "main.9afdd47d.css.map": "/mdChat/static/css/main.9afdd47d.css.map",
+    "main.ba46add4.js.map": "/mdChat/static/js/main.ba46add4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9afdd47d.css",
+    "static/js/main.ba46add4.js"
+  ]
+}
